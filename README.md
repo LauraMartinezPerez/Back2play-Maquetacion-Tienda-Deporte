@@ -17,13 +17,18 @@ Aunque es una **one-page**, está diseñada con enfoque profesional: es totalmen
    git clone https://github.com/tuusuario/back2play.git
 
 2. **Instala las dependenciaso:**
- ```bash
-   npm install
+   ```bash
+      npm install
+
 
 ## 🧪 Como correr el proyecto
 Levanta el entorno de desarrollo local con:
- ```bash
-   npm run dev
+
+1. 
+   ```bash
+      npm install
+
+
 Esto iniciará un servidor local donde podrás ver y editar tu proyecto con recarga en vivo
 
 ## 🎯 Qué incluye
